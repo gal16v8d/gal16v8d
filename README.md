@@ -11,21 +11,21 @@ so I always tried my best to keep my repos updated using the latest releases.
 
 ## Pinned repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gal16v8d&repo=dw2-svc&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gal16v8d&repo=dw2-svc&theme=dark)](https://github.com/gal16v8d/dw2-svc)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gal16v8d&repo=j2ee&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gal16v8d&repo=j2ee&theme=dark)](https://github.com/gal16v8d/j2ee)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gal16v8d&repo=dw1-svc&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gal16v8d&repo=dw1-svc&theme=dark)](https://github.com/gal16v8d/dw1-svc)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gal16v8d&repo=dw1-ui&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gal16v8d&repo=dw1-ui&theme=dark)](https://github.com/gal16v8d/dw1-ui)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gal16v8d&repo=pvz-svc&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gal16v8d&repo=pvz-svc&theme=dark)](https://github.com/gal16v8d/pvz-svc)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gal16v8d&repo=pvz-ui&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gal16v8d&repo=pvz-ui&theme=dark)](https://github.com/gal16v8d/pvz-ui)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gal16v8d&repo=flag-ui&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gal16v8d&repo=flag-ui&theme=dark)](https://github.com/gal16v8d/flag-ui)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gal16v8d&repo=fruit-app&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gal16v8d&repo=fruit-app&theme=dark)](https://github.com/gal16v8d/fruit-app)
 
 ## About my repos
 
