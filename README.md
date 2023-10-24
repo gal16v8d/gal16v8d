@@ -25,7 +25,7 @@ so I always tried my best to keep my repos updated using the latest releases.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gal16v8d&repo=flag-ui&theme=dark)](https://github.com/gal16v8d/flag-ui)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gal16v8d&repo=fruit-app&theme=dark)](https://github.com/gal16v8d/fruit-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gal16v8d&repo=candc-svc&theme=dark)](https://github.com/gal16v8d/candc-svc)
 
 ## About my repos
 
