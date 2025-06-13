@@ -11,6 +11,8 @@ so I always tried my best to keep my repos updated using the latest releases.
 
 ## Pinned repos
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gal16v8d&repo=assistant&theme=dark)](https://github.com/gal16v8d/assistant)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gal16v8d&repo=dw2-svc&theme=dark)](https://github.com/gal16v8d/dw2-svc)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gal16v8d&repo=j2ee&theme=dark)](https://github.com/gal16v8d/j2ee)
